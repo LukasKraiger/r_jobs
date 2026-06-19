@@ -1,0 +1,39 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Job data
+jobs/
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+MAN/
+README.html
+*.tar.gz
+
+# Environment
+.env
+.env.local
+config/env.local.php
+
+# Dependencies
+node_modules/
+vendor/
+composer.lock
